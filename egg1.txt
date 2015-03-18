@@ -1,8 +1,9 @@
-³o¬O²Ä¤T¶gªº±m³J¡A½Ð§¹¦¨egg1.c¨Ï±o¥¦¥i¥H¦L¥X
+é€™æ˜¯ç¬¬ä¸‰é€±çš„å½©è›‹ï¼Œè«‹å®Œæˆegg1.cä½¿å¾—å®ƒå¯ä»¥å°å‡º
 egg-1
 egg-2
 ...
 egg-9
 
-§Ñ°O»¡©ú¤F¡A¦b²Ä¤T¶g§@·~ªº¦a¤è¬O¼g¤@¬q¤å¦r¡A³o­Ó¤å¦r´N¬O§A°µ¦n¨Ã¤W¶Çegg1.cªºgithubªºRepo¡C
-´N¹³¦Ñ®v¦b§@·~¤¤´y­zªº¤@¼Ë¡C
+ç¬¬ä¸‰é€±ç°½åˆ°:
+
+è¬é•·æ©ç°½åˆ°
