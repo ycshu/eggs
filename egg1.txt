@@ -7,6 +7,11 @@ egg-9
 忘記說明了，在第三週作業的地方是寫一段文字，這個文字就是你做好並上傳egg1.c的github的Repo。
 就像老師在作業中描述的一樣。
 
-第四周簽到:李昱勳
-第四周簽到:QB
-第四周簽到:伍當山 YA
+第四周簽到:李昱勳     // Pull Request #2: andylee830914
+第四周簽到:QB         // Pull Request #3: yuronfu
+第四周簽到:伍當山 YA  // Pull Request #5: dangshan
+第四周簽到:梁一心     // Pull Request #6: sarah8012
+第四周簽到:張匯民     // Pull Request #7: raymond92928
+第四周簽到:鍾長恕     // Pull Request #8: rorysroes
+第四周簽到:洪郁晴     // Pull Request #9: meetsunny
+
