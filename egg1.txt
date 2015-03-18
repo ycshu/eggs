@@ -1,10 +1,10 @@
-�o�O�ĤT�g���m�J�A�Ч���egg1.c�ϱo���i�H�L�X
+﻿這是第三週的彩蛋，請完成egg1.c使得它可以印出
 egg-1
 egg-2
 ...
 egg-9
 
-�ѰO�����F�A�b�ĤT�g�@�~���a��O�g�@�q��r�A�o�Ӥ�r�N�O�A���n�äW��egg1.c��github��Repo�C
-�N���Ѯv�b�@�~���y�z���@�ˡC
+忘記說明了，在第三週作業的地方是寫一段文字，這個文字就是你做好並上傳egg1.c的github的Repo。
+就像老師在作業中描述的一樣。
 
-�ĥ|�Pñ��:QB
+第四周簽到:QB
